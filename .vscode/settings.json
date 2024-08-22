@@ -1,0 +1,35 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "editor.wordWrap": "on",
+    "workbench.tree.indent": 30,
+    "editor.fontFamily": "Ubuntu Mono derivative Powerline,'Consolas', Courier New",
+    "editor.fontSize": 15,
+    "editor.fontWeight": "bold",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": true,
+    "debug.console.fontSize": 12,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontWeightBold": "bold",
+    "terminal.integrated.minimumContrastRatio": 7,
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/CVS": false,
+        "**/Thumbs.db": false
+    },
+    "search.exclude": {
+        "**/*.code-search": false,
+        "**/bower_components": false,
+        "**/node_modules": false
+    },
+
+    "go.languageServerExperimentalFeatures": {
+        "diagnostics": false
+    },
+    // "terminal.integrated.defaultProfile.windows": "Ubuntu-22.04 (WSL)",
+
+    "vscode-office.pasterImgPath": "${fileName}/${now}.png"
+}

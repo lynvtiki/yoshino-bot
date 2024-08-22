@@ -1,0 +1,15 @@
+
+# python
+__pycache__/
+
+# yoshino
+/src
+/source
+/resource
+
+bot.py
+config.py
+config.json
+config.toml
+setup.py
+private*

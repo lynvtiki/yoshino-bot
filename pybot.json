@@ -1,0 +1,13 @@
+{
+    "1":{
+        "host":"127.0.0.1",
+        "port":9900,
+        "post":9901,
+        "bot_qq":123456666,
+        "nickname":"a bot",
+        "super_qq":666666,
+        "admin_list":[0, 1],
+        "blackqq_list":[2, 3],
+        "group_list":[123456, 123456789]
+    }
+}
