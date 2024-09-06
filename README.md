@@ -215,11 +215,3 @@ vim pybot.toml
 ```bash
 python3 main.py
 ```
-
----
-
-# TODO
-
-- []
-- [×] ......
-- [√] ......
